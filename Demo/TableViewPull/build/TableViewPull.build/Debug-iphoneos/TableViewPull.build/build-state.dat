@@ -3,8 +3,8 @@ v7
 r1
 
 N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
-c000000004CCF6ECF0000000000000110
-t1288662735
+c000000004CC7DC9E0000000000000110
+t1288166558
 s272
 
 N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
@@ -51,6 +51,230 @@ N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/inclu
 c000000004CB3FBB80000000000001ADD
 t1286863800
 s6877
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Controller/RootViewController/RootViewController.h
+c000000004E09135D000000000000067F
+t1309217629
+s1663
+i"EGORefreshTableHeaderView.h"
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Controller/RootViewController/RootViewController.m
+c000000004E09135D0000000000001147
+t1309217629
+s4423
+i"RootViewController.h"
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.h
+c000000004E09135D000000000000060D
+t1309217629
+s1549
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m
+c000000004E09135D000000000000078F
+t1309217629
+s1935
+i"TableViewPullAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.h
+c000000004E09135D000000000000090B
+t1309217629
+s2315
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m
+c000000004E09135D000000000000202F
+t1309217629
+s8239
+i"EGORefreshTableHeaderView.h"
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/MainWindow.xib
+c000000004E09135D0000000000002C79
+t1309217629
+s11385
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/RootViewController.xib
+c000000004E09135D00000000000043CB
+t1309217629
+s17355
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/blackArrow.png
+c000000004E09135D00000000000010DC
+t1309217629
+s4316
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/blackArrow@2x.png
+c000000004E09135D0000000000000650
+t1309217629
+s1616
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/blueArrow.png
+c000000004E09135D000000000000118C
+t1309217629
+s4492
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/blueArrow@2x.png
+c000000004E09135D00000000000005F9
+t1309217629
+s1529
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/grayArrow.png
+c000000004E09135D000000000000077A
+t1309217629
+s1914
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/grayArrow@2x.png
+c000000004E09135D000000000000083D
+t1309217629
+s2109
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/whiteArrow.png
+c000000004E09135D0000000000001054
+t1309217629
+s4180
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/whiteArrow@2x.png
+c000000004E09135D0000000000000621
+t1309217629
+s1569
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/TableViewPull_Prefix.pch
+c000000004E09135D000000000000014C
+t1309217629
+s332
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app.dSYM
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/Info.plist
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/MainWindow.nib
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/PkgInfo
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/ResourceRules.plist
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/RootViewController.nib
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow.png
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow@2x.png
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow.png
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow@2x.png
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow.png
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow@2x.png
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow.png
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow@2x.png
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/EGORefreshTableHeaderView.o
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPullAppDelegate.o
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/EGORefreshTableHeaderView.o
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/RootViewController.o
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPullAppDelegate.o
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/main.m
+c000000004E09135D0000000000000177
+t1309217629
+s375
+i<UIKit/UIKit.h>
+
+N/Users/abc329/Library/MobileDevice/Provisioning Profiles/CB2BAA70-751C-4CE0-93AD-BC528F95755A.mobileprovision
+c000000004E0169630000000000001F0D
+t1308715363
+s7949
 
 N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Controller/RootViewController/RootViewController.h
 c000000004CFA9738000000000000068A
@@ -284,42 +508,83 @@ N/var/folders/EN/ENmrDakkEzOaao7-bah5i++++TI/-Caches-/com.apple.Xcode.501/Shared
 t2
 s0
 
+N/var/folders/kP/kPwSZT2WGfa2ygDBl4ixG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-aidbpormfnuloeemawilspfdsoql/TableViewPull_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/kP/kPwSZT2WGfa2ygDBl4ixG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-fgjmkihzgpyhsjcyyxuarjnpppsg/TableViewPull_Prefix.pch.gch
+t2
+s0
+
 NResources/TableViewPull-Info.plist
-c000000004CFA9738000000000000038D
-t1291491128
+c000000004E09135D000000000000038D
+t1309217629
 s909
 
 CCodeSign "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app"
 r0
 
+CCodeSign /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app
+r0
+
 CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/EGORefreshTableHeaderView.o "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/EGORefreshTableHeaderView.o /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
 r0
 
 CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/RootViewController.o "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Controller/RootViewController/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/RootViewController.o /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Controller/RootViewController/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPullAppDelegate.o "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPullAppDelegate.o /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
 r0
 
 CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/main.o "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/main.o /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/EGORefreshTableHeaderView.o "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/EGORefreshTableHeaderView.o /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
 r0
 
 CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/RootViewController.o "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Controller/RootViewController/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/RootViewController.o /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Controller/RootViewController/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPullAppDelegate.o "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPullAppDelegate.o /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/main.o "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/main.o /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
 r0
 
 CCompileXIB "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/MainWindow.xib"
 r0
 
 CCompileXIB "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/RootViewController.xib"
+r0
+
+CCompileXIB /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/MainWindow.xib
+r0
+
+CCompileXIB /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/RootViewController.xib
 r0
 
 CCopyPNGFile "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow.png" Resources/blackArrow.png
@@ -346,13 +611,43 @@ r0
 CCopyPNGFile "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow@2x.png" Resources/whiteArrow@2x.png
 r0
 
+CCopyPNGFile /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow.png Resources/blackArrow.png
+r0
+
+CCopyPNGFile /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow@2x.png Resources/blackArrow@2x.png
+r0
+
+CCopyPNGFile /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow.png Resources/blueArrow.png
+r0
+
+CCopyPNGFile /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow@2x.png Resources/blueArrow@2x.png
+r0
+
+CCopyPNGFile /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow.png Resources/grayArrow.png
+r0
+
+CCopyPNGFile /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow@2x.png Resources/grayArrow@2x.png
+r0
+
+CCopyPNGFile /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow.png Resources/whiteArrow.png
+r0
+
+CCopyPNGFile /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow@2x.png Resources/whiteArrow@2x.png
+r0
+
 CCpResource build/Debug-iphoneos/TableViewPull.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
 r0
 
 CCreateUniversalBinary "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull" normal "armv6 armv7"
 r0
 
+CCreateUniversalBinary /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull normal "armv6 armv7"
+r0
+
 CGenerateDSYMFile "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app.dSYM" "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull"
+r0
+
+CGenerateDSYMFile /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app.dSYM /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull
 r0
 
 CLd "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull" normal armv6
@@ -361,7 +656,16 @@ r0
 CLd "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull" normal armv7
 r0
 
+CLd /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull normal armv6
+r0
+
+CLd /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull normal armv7
+r0
+
 CProcessInfoPlistFile "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/Info.plist" Resources/TableViewPull-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/Info.plist Resources/TableViewPull-Info.plist
 r0
 
 CProcessPCH /var/folders/EN/ENmrDakkEzOaao7-bah5i++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cswrzaqqbyqzxyfddadodzjsnmwy/TableViewPull_Prefix.pch.gch TableViewPull_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
@@ -370,12 +674,27 @@ r0
 CProcessPCH /var/folders/EN/ENmrDakkEzOaao7-bah5i++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-gkfnvogmweunhhfaxiqxuzstqpxw/TableViewPull_Prefix.pch.gch TableViewPull_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
 r0
 
+CProcessPCH /var/folders/kP/kPwSZT2WGfa2ygDBl4ixG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-aidbpormfnuloeemawilspfdsoql/TableViewPull_Prefix.pch.gch TableViewPull_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/kP/kPwSZT2WGfa2ygDBl4ixG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-fgjmkihzgpyhsjcyyxuarjnpppsg/TableViewPull_Prefix.pch.gch TableViewPull_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/abc329/Library/MobileDevice/Provisioning Profiles/CB2BAA70-751C-4CE0-93AD-BC528F95755A.mobileprovision" /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/embedded.mobileprovision
+r0
+
 CProcessProductPackaging "/Users/devin/Library/MobileDevice/Provisioning Profiles/C1BF0C20-972E-4EB9-A0A7-E37FC9DCADAF.mobileprovision" "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/embedded.mobileprovision"
 r0
 
 CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull.xcent"
 r0
 
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull.xcent
+r0
+
 CTouch "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app"
+r0
+
+CTouch /Users/abc329/Documents/private_projects/instagirl/Libraries/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app
 r0
 
